@@ -18,7 +18,7 @@ MP4, WEbM, 3Gp & Flv Video Converter API Code:
 
 Please replace YouTube-Video-ID with dynamic video id value.
 
-Please write to us for any query or support : yt2mp3.ws@gmail.com
+Please write to us for any query or support : admin@vevioz.com
 
 Official API Websites: 
 https://api.vevioz.com
