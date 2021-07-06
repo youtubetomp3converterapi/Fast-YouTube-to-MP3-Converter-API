@@ -21,6 +21,4 @@ Please replace YouTube-Video-ID with dynamic video id value.
 Please write to us for any query or support : yt2mp3.ws@gmail.com
 
 Official API Websites: 
-https://api.vevioz.com/developers/
-https://api.vevioz.com/developers
-Demo Sites: https://musicpleer.li/ https://convert2mp3s.net/ 
+https://api.vevioz.com
