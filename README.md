@@ -19,4 +19,4 @@ Please replace YouTube-Video-ID with dynamic video id value.
 Please write to us for any query or support : admin@vevioz.com
 
 Official API Websites: 
-https://api.vevioz.com
+https://api.vevioz.com/developers
