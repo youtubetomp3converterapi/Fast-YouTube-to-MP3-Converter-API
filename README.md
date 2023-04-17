@@ -41,8 +41,8 @@ MP4, WEbM, 3Gp & Flv Video Converter API Code:
 
 <ins>Javascript code for automatically resizing (optional)</ins>
 
-```<!-- Put the Library in your <head> tag -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
+<!-- Put the Library in your <head> tag -->
+```<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
 <!-- Put the resizer code after your <iframe> tag -->
 <script>iFrameResize({ log: false, minHeight: 360 }, '#buttonApi')</script>```
 
