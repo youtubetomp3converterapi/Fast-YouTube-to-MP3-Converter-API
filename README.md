@@ -6,7 +6,7 @@ Conversion is instant even in seconds for hours lenght videos no wait.
 
 Here is a simple auto responsive[For All Devices] iframe code to easily embed to your websites and enjoy best ever converter for free.
 
-<ins>Available ftype</ins>
+<ins>Available type</ins>
 
 mp3 = MP3
 
