@@ -22,6 +22,13 @@ MP4 Download button iFrame example
 **Generate like this...**  
 ![Button API](https://assets.vevioz.com/img/mp4.png)
 
+Widget button API
+
+```<iframe src="https://api.vevioz.com/api/widget/mp3/iiMrs3vOm_w" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>```
+
+**Generate like this...**  
+![Button API](https://assets.vevioz.com/img/widget.png)
+
 Please replace YouTube-Video-ID with dynamic video id value.
 
 Please write to us for any query or support : admin@vevioz.com
