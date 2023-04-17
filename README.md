@@ -43,7 +43,11 @@ MP4, WEbM, 3Gp & Flv Video Converter API Code:
 
 ```<!-- Put the Library in your <head> tag -->```
 
-```<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>```
+```script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>```
+
+```<!-- Put the resizer code after your <iframe> tag -->```
+
+```<script>iFrameResize({ log: false, minHeight: 360 }, '#buttonApi')</script>```
 
 Please write to us for any query or support : admin@vevioz.com
 
