@@ -15,14 +15,14 @@ Here is a simple auto responsive[For All Devices] iframe code to easily embed to
 
 MP4, WEbM, 3Gp & Flv Video Converter API Code:
 
-<insMP4 Download button iFrame example</ins
+<ins>MP4 Download button iFrame example</ins>
 
 ```<iframe src="https://api.vevioz.com/api/button/videos/iiMrs3vOm_w" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>```
 
 **Generate like this...**  
 ![Button API](https://assets.vevioz.com/img/mp4.png)
 
-<insWidget button API</ins
+<ins>Widget button API</ins>
 
 ```<iframe src="https://api.vevioz.com/api/widget/mp3/iiMrs3vOm_w" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>```
 
