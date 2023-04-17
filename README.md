@@ -10,7 +10,7 @@ MP3 Download button iFrame example
 
 ```<iframe src="https://api.vevioz.com/api/button/mp3/iiMrs3vOm_w" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>```
 
-**Generate this... :**  
+**Generate like this...**  
 ![Button API](https://i.imgur.com/qIW1Ofw.jpeg)  
 
 MP4, WEbM, 3Gp & Flv Video Converter API Code:
