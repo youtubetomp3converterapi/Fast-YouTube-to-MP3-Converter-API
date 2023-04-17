@@ -18,6 +18,9 @@ merged = WEBM / MKV
 
 Please replace YouTube-Video-ID with dynamic video id value.
 
+**Warning:** API does not work if used with **"sandbox"** iFrame attribute. Your Domain/IP will be blocked.   
+ex: ~~<iframe sandbox="allow-scripts allow-same-origin"...~~
+
 <ins>MP3 Download button iFrame example</ins> 
 
 ```<iframe src="https://api.vevioz.com/api/button/mp3/iiMrs3vOm_w" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>```
