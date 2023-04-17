@@ -6,6 +6,16 @@ Conversion is instant even in seconds for hours lenght videos no wait.
 
 Here is a simple auto responsive[For All Devices] iframe code to easily embed to your websites and enjoy best ever converter for free.
 
+<ins>Available ftype</ins>
+
+mp3 = MP3
+
+videos = MP4
+
+merged = WEBM / MKV
+
+Please replace YouTube-Video-ID with dynamic video id value.
+
 <ins>MP3 Download button iFrame example</ins> 
 
 ```<iframe src="https://api.vevioz.com/api/button/mp3/iiMrs3vOm_w" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>```
@@ -28,8 +38,6 @@ MP4, WEbM, 3Gp & Flv Video Converter API Code:
 
 **Generate like this...**  
 ![Button API](https://assets.vevioz.com/img/widget.png)
-
-Please replace YouTube-Video-ID with dynamic video id value.
 
 Please write to us for any query or support : admin@vevioz.com
 
