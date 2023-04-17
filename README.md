@@ -40,12 +40,12 @@ MP4, WEbM, 3Gp & Flv Video Converter API Code:
 ![Button API](https://assets.vevioz.com/img/widget.png)
 
 <ins>Javascript code for automatically resizing (optional)</ins>
-```
-<!-- Put the Library in your <head> tag -->
+
+```<!-- Put the Library in your <head> tag -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
 <!-- Put the resizer code after your <iframe> tag -->
-<script>iFrameResize({ log: false, minHeight: 360 }, '#buttonApi')</script>
-```
+<script>iFrameResize({ log: false, minHeight: 360 }, '#buttonApi')</script>```
+
 Please write to us for any query or support : admin@vevioz.com
 
 Official API Websites: 
